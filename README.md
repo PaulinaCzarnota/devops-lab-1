@@ -1,9 +1,10 @@
-This repository contains a collection of labs from the Introduction to DevOps module, completed during the third year of the Computer Science course at TU Dublin. 
+This repository contains my Lab 1 - Bash Scripting solution for the Introduction to DevOps module in the third year of the Computer Science course at TU Dublin.
 
-# Lab Summaries   
+# Overview
 
-### Lab 1: Bash Scripting
-This lab introduces fundamental **Bash scripting** concepts through small programs designed to build intuition for shell scripting. Key topics include:  
+This lab introduces fundamental **Bash scripting** concepts through small programs designed to build intuition for shell scripting. 
+
+Key topics include:  
 
 - **Basic Commands**: Printing "Hello World", reading user input, and displaying a greeting.  
 - **Algorithms**: Implementing Euclid’s algorithm to compute the **Greatest Common Divisor (GCD)** using both user input and command-line arguments.  
